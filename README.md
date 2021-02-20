@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm UĞUR KÜREKCİ</h1>
 
 <h2 align="center">I am developing software application with .Net Framework
-and .Net technologies. Team player, innovative, solution
+and .Net Core technologies. Team player, innovative, solution
 focused, strong communication skills, collaborative, allrounder, energetic,traveler
 </h2>
 
