@@ -29,9 +29,9 @@ focused, strong communication skills, collaborative, allrounder, energetic,trave
 
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/ugurkurekci" target="_blank"> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/ugurkurekci98' target="_blank"> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/ugurkurekci' target="_blank"> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = "https://www.linkedin.com/in/ugurkurekci"> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/ugurkurekci98'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/ugurkurekci'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
 
