@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h1>
+<h3 align="center">Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h3>
 <h4 align=center">Hello there! My name is Ugur. Thank you for taking the time to view my GitHub Profile</h4>
 
-<h1 align="center">I am developing software application with .Net Framework
-and .Net Core technologies. </h1>
-  <br/>
-<h1 align="center"> Team player, innovative, solution
-focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451; </h1>
+<h4 align="center">I am developing software application with .Net Framework
+and .Net Core technologies. </h4>
+ 
+<h4 align="center"> Team player, innovative, solution
+focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451; </h4>
 
-<h1 align="center">and Researcher</h1>
+<h4 align="center">and Researcher</h4>
  
 
 </h2>
