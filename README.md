@@ -5,6 +5,8 @@ and .Net Core technologies. </h1>
   <br/>
 <h1 align="center"> Team player, innovative, solution
 focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451; </h1>
+
+<h1 align="center">and researcher</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkurekci" /> </p>
 
 </h2>
