@@ -37,7 +37,6 @@ focused, strong communication skills, collaborative, allrounder, energetic,trave
 <a href = 'https://www.twitter.com/ugurkurekci98'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
  
 <a href = 'https://streamlit-portfolio.herokuapp.com/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/ugurkurekci'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkurekci" /> </p>
