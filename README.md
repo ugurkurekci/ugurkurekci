@@ -31,8 +31,13 @@ focused, strong communication skills, collaborative, allrounder, energetic,trave
 
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="center">
-<a href="https://twitter.com/ugurkurekci98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ugurkurekci98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ugurkurekci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ugurkurekci" height="30" width="40" /></a>
+ 
+<a href = 'https://www.linkedin.com/in/ugurkurekci'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<a href = 'https://www.twitter.com/ugurkurekci98'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+ 
+<a href = 'https://streamlit-portfolio.herokuapp.com/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkurekci" /> </p>
