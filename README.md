@@ -26,8 +26,8 @@ focused, strong communication skills, collaborative, allrounder, energetic,trave
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="center">
- 
-<a href = 'https://www.linkedin.com/in/ugurkurekci'> <img width = '44px' align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<img a href = 'https://www.linkedin.com/in/ugurkurekci'> src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkedin ugur kurekci" width="40" height="40"/> 
+< <img width = '44px' align="center" src=""/></a> 
 
 
 <p align="center">
