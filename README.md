@@ -5,7 +5,7 @@
 and .Net Core technologies. </h4>
  
 <h4 align="center"> Team player, innovative, solution
-focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451;  and Researcher </h4>
+focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451;  and Researcher. </h4>
 
 
  
