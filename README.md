@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h1>
+<h4 align=center">Hello there! My name is Ugur. Thank you for taking the time to view my GitHub Profile</h4>
 
 <h1 align="center">I am developing software application with .Net Framework
 and .Net Core technologies. </h1>
