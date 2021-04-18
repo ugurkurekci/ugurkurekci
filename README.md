@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h1>
 
-<h2 align="center">I am developing software application with .Net Framework
+<h1 align="center">I am developing software application with .Net Framework
 and .Net Core technologies. &#x2B50; Team player, innovative, solution
 focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451;
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkurekci" /> </p>
