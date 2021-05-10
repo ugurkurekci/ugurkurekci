@@ -1,7 +1,7 @@
 <h1> Summary</h1><br/>
 <p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. :) 
 
-I develop and learn projects with C #, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
+I develop and learn projects with C#, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
 <h2  style="color:red">Skills</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -13,6 +13,7 @@ I develop and learn projects with C #, Microsoft Net, Core, Angular, Java progra
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
  
