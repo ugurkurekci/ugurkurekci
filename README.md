@@ -1,8 +1,20 @@
-<h1> Summary</h1><br/>
-<p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. :) 
+<h1> Summary:</h1><br/>
+<p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. 
 
 I develop and learn projects with C#, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
-<h2  style="color:red">Skills</h2>
+<p>I make my projects using layered architecture and develop in accordance with SOLID software development principles.</p>
+
+ <ul>
+      <li>Single-responsibility principle</li>
+      <li>Open-closed principle</li>
+      <li>Liskov substitution principle</li>
+      <li>Interface segregation principle</li>
+      <li>Dependency Inversion Principle</li>
+   </ul>
+ <p>In projects in general:</p>
+ 
+   
+<h2  style="color:red">Skills:</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
@@ -24,7 +36,7 @@ I develop and learn projects with C#, Microsoft Net, Core, Angular, Java program
 
 </p></p>
  
-<h2>Contact me</h2>
+<h2>Contact me:</h2>
 <p>
 <a href = "https://www.linkedin.com/in/ugurkurekci">   <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"/></a> 
 <a href = 'https://www.twitter.com/ugurkurekci98'> <img width = '30px' align= 'center' src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667"/></a> 
