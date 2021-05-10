@@ -28,7 +28,7 @@ I develop and learn projects with C #, Microsoft Net, Core, Angular, Java progra
 <a href = 'https://www.twitter.com/ugurkurekci98'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/ugurkurekci'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
- <a href = " mailto:4zafercaliskan@gmail.com">   <img width = '50px' align= 'center' src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667"/></a> 
+ <a href = " mailto:ugurkurekci98@gmail.com">   <img width = '50px' align= 'center' src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667"/></a> 
  
 
 
