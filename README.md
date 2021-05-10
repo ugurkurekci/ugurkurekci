@@ -1,16 +1,16 @@
 <h3 >Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h3>
 <h4>Hello there! My name is Ugur. Thank you for taking the time to view my GitHub Profile</h4>
 
-<h4 align="center">I am developing software application with .Net Framework
+<h4 >I am developing software application with .Net Framework
 and .Net Core technologies. </h4>
  
-<h4 align="center"> Team player, innovative, solution
+<h4 > Team player, innovative, solution
 focused, strong communication skills, collaborative, allrounder, energetic,traveler &#x1F451;  and Researcher. </h4>
  
 </h2>
-<h1 align="center" style="color:red">Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"></h1>
+<h1  style="color:red">Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"></h1>
 
-<p align="center">
+<p >
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/> 
