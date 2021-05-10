@@ -1,8 +1,8 @@
 <p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. :) 
 
-I develop and learn projects with C #, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
+I develop and learn projects with C #, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p> <br/>
 
-<p  style="color:red">Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"></p>
+<p  style="color:red">Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"></p><br/>
 
 <p >
  
