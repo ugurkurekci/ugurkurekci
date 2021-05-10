@@ -12,6 +12,7 @@ I develop and learn projects with C#, Microsoft Net, Core, Angular, Java program
       <li>Dependency Inversion Principle</li>
    </ul>
  <p>In projects in general:</p>
+ <p>Restful WebApi , Repository Design Pattern , Interceptor, Aspects , Cross Cutting Concerns , Cache, Validate, Authorize Aspect , Autofac , Fluent Validation , JSON Web Token</p>
  
    
 <h2  style="color:red">Skills:</h2>
