@@ -17,7 +17,7 @@ I develop and learn projects with C #, Microsoft Net, Core, Angular, Java progra
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="40"/> </p> <br/>
  
-<h2 ><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
+<h2>Connect with me</h2>
 
 <p>
 <a href = " mailto:ugurkurekci98@gmail.com">   <img width = '50px' align= 'center' src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667"/></a> 
