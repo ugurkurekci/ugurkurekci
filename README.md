@@ -1,3 +1,8 @@
+<p>Hello there. I am Uğur Kürekci, I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. :)
+
+I develop and learn projects with C #, Microsoft Net, Core, Angular, Java programming languages.</p>
+
+
 <h3 >Hi 👋,  I'm UGUR KUREKCI &#x1F60E;</h3>
 <h4>Hello there! My name is Ugur. Thank you for taking the time to view my GitHub Profile</h4>
 
