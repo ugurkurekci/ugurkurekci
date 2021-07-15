@@ -1,4 +1,5 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="qwe" /> </p>
 
 <h1> Summary:</h1><br/>
 <p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. 
