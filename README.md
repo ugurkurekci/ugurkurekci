@@ -1,3 +1,7 @@
+<!-- Sayaclar.com Code Start  -->
+<div align="center"><script language="Javascript" src="http://sa.sayaclar.com/c/s4.php?a=7wf74zr&s=1a1"></script></div>
+<!-- Sayaclar.com Code End -->
+
 <h1> Summary:</h1><br/>
 <p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. 
 
