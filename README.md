@@ -5,17 +5,6 @@
 <p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. 
 
 I develop and learn projects with C#, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
-<p>I make my projects using layered architecture and develop in accordance with SOLID software development principles.</p>
-
- <ul>
-      <li>Single-responsibility principle</li>
-      <li>Open-closed principle</li>
-      <li>Liskov substitution principle</li>
-      <li>Interface segregation principle</li>
-      <li>Dependency Inversion Principle</li>
-   </ul>
- <p>In projects in general:</p>
- <p>Restful WebApi , Repository Design Pattern , Interceptor, Aspects , Cross Cutting Concerns , Cache, Validate, Authorize Aspect , Autofac , Fluent Validation , JSON Web Token</p>
  
    
 <h2  style="color:red">Skills:</h2>
