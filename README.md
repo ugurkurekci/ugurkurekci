@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurkurekci&label=Profile%20views&color=0e75b6&style=flat" alt="qwe" /> </p>
 
 <h1> Summary:</h1><br/>
-<p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. Backend locations are more interesting to me. 
+<p>Hello there. I am Uğur Kürekci,👋 I live in Istanbul. I love developing and learning software. 
 
-I develop and learn projects with C#, Microsoft Net, Core, Angular, Java programming languages. &#x1F60E;</p>
+I develop and learn projects with C#,Net Core, Html/Css, Angular, Java programming languages. &#x1F60E;</p>
  
    
 <h2  style="color:red">Skills:</h2>
