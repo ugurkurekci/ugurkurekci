@@ -2,34 +2,6 @@
 <h3 align="center">Developer developing projects in the field of full stack</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurkurekci" alt="ugurkurekci" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ugurkrkci" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkrkci?logo=twitter&style=for-the-badge" alt="ugurkrkci" /></a> </p>
-
-- 🔭 Projects I've Completed [Company Tracking Project](https://github.com/ugurkurekci/company-core-project)
-
-- 🌱 I’m currently learning **Angular-React- _Frontend developing_**
-
-- 🔭 Projects I've Completed [Car Rental System](https://github.com/ugurkurekci/car-rental-project-NetCore)
-
-- 🔭 Projects I've Completed [BirthDay Radar](https://github.com/ugurkurekci/birtdayradar-core-project)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ugurkurekci?tab=repositories](https://github.com/ugurkurekci?tab=repositories)
-
-- 📝 I regularly write articles on ( The construction phase ) [https://ugurkurekci.github.io/index.html](https://ugurkurekci.github.io/index.html)
-
-- 💬 Ask me about **C# - Net Core - MSSQL - HTML/CSS**
-
-- 📫 How to reach me **ugurkurekci98@gmail.com**
-
-- 📄 Know about my experiences - CV [https://ugurkurekci.github.io/pdf/ugurkurekci.pdf](https://ugurkurekci.github.io/pdf/ugurkurekci.pdf)
-
-- ⚡ Fun fact **I Think I am funy**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ugurkrkci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkrkci" height="30" width="40" /></a>
