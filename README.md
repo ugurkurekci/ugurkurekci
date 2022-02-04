@@ -4,4 +4,9 @@
   I started my software life in 2018 and my professional career in 2021.  <br>
   I live in istanbul, turkey.</h4>
 
+<h4>Languages and Tools:<h4/>
+<br>
+<img src="https://img.shields.io/badge/-C%23-brightgreen">
+
+
 
