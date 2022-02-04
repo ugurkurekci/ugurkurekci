@@ -1,4 +1,5 @@
-<h3 align="right">Uğur Kürekci</h3>
+<h3 align="right">UGUR KUREKCI</h3>
+<h3 align="right">UĞUR KÜREKCİ</h3>
 <hr/>
 
 <h4 align="center">Hello, I am a software developer. <br>
