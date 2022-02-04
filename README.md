@@ -2,8 +2,6 @@
 <div>
   <img src="https://badges.pufler.dev/repos/ugurkurekci">
   <img src="https://badges.pufler.dev/years/ugurkurekci">
-   <img src="https://badges.pufler.dev/visits/ugurkurekci/ugurkurekci">
-
 </div>
 
 <hr/>
