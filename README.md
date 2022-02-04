@@ -10,6 +10,10 @@
 <h5 align="center">Hello, I am a software developer.<br>
 I started my software life in 2018 and my professional career in 2021.<br>
 I live in istanbul, turkey.</h5>
+<div align="center">
+  <img src="https://badges.pufler.dev/repos/ugurkurekci">
+  <img src="https://badges.pufler.dev/years/ugurkurekci">
+</div>
 
 <h4 align="center">Languages and Tools</h4>
 <div align="center">
@@ -34,8 +38,5 @@ I live in istanbul, turkey.</h5>
         <img src="https://camo.githubusercontent.com/9876ab97039b3996cfba5f5c502f1adab2ae246831047fde78f6a405fb8da205/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47726166616e612d2532334646343530302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d47726166616e61266c6f676f436f6c6f723d7768697465">
 	
 </div>
-<div>
-  <img src="https://badges.pufler.dev/repos/ugurkurekci">
-  <img src="https://badges.pufler.dev/years/ugurkurekci">
-</div><br>
+
 
