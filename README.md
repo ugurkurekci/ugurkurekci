@@ -8,7 +8,7 @@
 
 <h5 align="center">Hello, I am a software developer.<br>
 I started my software life in 2018 and my professional career in 2021.<br>
-I live in istanbul, turkey.</h5>
+I live in Istanbul, Turkey.</h5>
 <div align="center">
   <img src="https://badges.pufler.dev/repos/ugurkurekci">
   <img src="https://badges.pufler.dev/years/ugurkurekci">
