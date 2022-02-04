@@ -1,4 +1,3 @@
-<h3 align="right">UGUR KUREKCI</h3>
 <h3 align="right">UĞUR KÜREKCİ</h3>
 <hr/>
 
