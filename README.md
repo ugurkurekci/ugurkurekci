@@ -6,6 +6,7 @@
 <a href="https://stackoverflow.com/users/14922868/ugurkurekci"><img src="https://camo.githubusercontent.com/fc787598aecf719d83caaa44451ed49617912947ceaefe36b51071cca88b63b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465"></a>
 </div>
 
+<h5 align="center">I can't update github due to workload.</h5>
 <h5 align="center">Hello, I am a software developer.<br>
 I started my software life in 2018 and my professional career in 2021.<br>
 I live in Istanbul, Turkey.</h5>
