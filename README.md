@@ -5,6 +5,7 @@
 <a href="https://twitter.com/ugurkrkci"><img src="https://camo.githubusercontent.com/6dd8acecefedc81e991e9975d50f7a21ec642e370112e38d749a77945a1980e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756775726b726b63692d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465"></a>
 <a href="https://stackoverflow.com/users/14922868/ugurkurekci"><img src="https://camo.githubusercontent.com/fc787598aecf719d83caaa44451ed49617912947ceaefe36b51071cca88b63b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465"></a>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkurekci&show_icons=true&locale=en&layout=compact" alt="ugurkurekci" /></p>
 
 <h5 align="center">I can't update github due to workload.</h5>
 <h5 align="center">Hello, I am a software developer.<br>
@@ -38,4 +39,4 @@ I live in Istanbul, Turkey.</h5>
 	<img src="https://camo.githubusercontent.com/346b8895ffaf93426e8dc30e4996f2919581c7bfb070bbdf70c48f3591bf1ea4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47726166616e612d3744343639383f7374796c653d666f722d7468652d6261646765266c6f676f3d47726166616e61266c6f676f436f6c6f723d7768697465">
 </div>
 
-1110
+1120
