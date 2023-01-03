@@ -10,7 +10,3 @@
 <h5 align="center">Hello, I am a software developer.<br>
 I started my software life in 2018 and my professional career in 2021.<br>
 I live in Istanbul, Turkey.</h5>
-<div align="center">
-	
-![](https://komarev.com/ghpvc/?username=your-github-ugurkurekci&color=green)
-</div>
