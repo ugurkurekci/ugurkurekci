@@ -5,8 +5,9 @@ I live in Istanbul, Turkey.</h5>
   <ul>
   <li>C#, ASP.NET and ASP.NET CORE Development and Improvements.</li>
   <li>Api Development in ASP.NET CORE.</li>  
-  <li>HTML, CSS, Bootstrap, Basic Javascript and Basic Vue</li>
-  <li>Microsoft SQL Server - T-SQL</li>  
+  <li>HTML, CSS, Bootstrap, Javascript and Vue</li>
+  <li>Microsoft SQL Server - T-SQL - NoSQL MongoDB</li> 
+  <li>DevOps management ( CI/CD, Azure, Docker, Kubernetes ). </li>
   <li>RabbitMQ, Redis, Graylog, Elasticsearch, HangFire</li>  
   <li>Visual Studio - Visual Studio Code.</li> 
   <li>Microservice - Api Gateway</li>  
