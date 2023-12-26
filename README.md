@@ -3,24 +3,14 @@
     I started my software life in 2018 and my professional career in 2021.<br>
     I live in Istanbul, Turkey.</h5>
   <ul>
-    <li> Development and enhancement in C#, ASP.NET, and ASP.NET CORE.</li>
-    <li>
-      Expertise in API development and integration.
+    
+    <li>Development and enhancement in C#, ASP.NET, and ASP.NET CORE.</li>
+    <li>Expertise in API development and integration.</li>
+    <li>Proficiency in frontend technologies: HTML, CSS, Bootstrap, Vue.js, and JavaScript.</li>
+    <li>Expertise in database programming: Microsoft SQL Server, T-SQL, PostgreSQL, NoSQL MongoDB.</li>
+    <li>Competency in messaging and queue systems: RabbitMQ, Redis, Graylog, Elasticsearch, HangFire.
     </li>
-    <li>
-      Proficiency in frontend technologies: HTML, CSS, Bootstrap, Vue.js, and JavaScript.
-
-    </li>
-    <li>
-      Expertise in database programming: Microsoft SQL Server, T-SQL, PostgreSQL, NoSQL MongoDB.
-
-    </li>
-    <li>
-      Competency in messaging and queue systems: RabbitMQ, Redis, Graylog, Elasticsearch, HangFire.
-    </li>
-    <li>
-      Proficient utilization of development tools: Visual Studio, Visual Studio Code.
-    </li>
+    <li>Proficient utilization of development tools: Visual Studio, Visual Studio Code.</li>
     <li>
       Specialization in Microservices architecture and project development with API Gateway.
     </li>
