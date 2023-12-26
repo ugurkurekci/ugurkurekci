@@ -2,19 +2,21 @@
 <h5>Hello, I am a software developer.<br>
 I started my software life in 2018 and my professional career in 2021.<br>
 I live in Istanbul, Turkey.</h5>
-  <ul>
-  <li>C#, ASP.NET and ASP.NET CORE Development and Improvements.</li>
-  <li>Api Development in ASP.NET CORE.</li>  
-  <li>HTML, CSS, Bootstrap, Javascript and Vue</li>
-  <li>Microsoft SQL Server - T-SQL - NoSQL MongoDB</li> 
-  <li>DevOps management ( CI/CD, Azure, Docker, Kubernetes ). </li>
-  <li>RabbitMQ, Redis, Graylog, Elasticsearch, HangFire</li>  
-  <li>Visual Studio - Visual Studio Code.</li> 
-  <li>Microservice - Api Gateway</li>  
-  <li>SOAP - RESTful Webservice</li>
-  <li>API integration</li>
-  <li>Project Management and Tracking JIRA</li>
-  <li>SOLID - Design Pattern</li>
-  <li>Unitofwork CQRS Baserepository Rule Genericbaserepository Patterns</li>
-  </ul>
+
+  Development and enhancement in C#, ASP.NET, and ASP.NET CORE.
+Expertise in API development and integration.
+Proficiency in frontend technologies: HTML, CSS, Bootstrap, Vue.js, and JavaScript.
+Expertise in database programming: Microsoft SQL Server, T-SQL, PostgreSQL, NoSQL MongoDB.
+Competency in messaging and queue systems: RabbitMQ, Redis, Graylog, Elasticsearch, HangFire.
+Proficient utilization of development tools: Visual Studio, Visual Studio Code.
+Specialization in Microservices architecture and project development with API Gateway.
+Proficiency in Web Service programming: SOAP, REST, among other technologies.
+Skill in Project Management and Tracking: Utilization of tools such as Jira.
+Strong understanding and command of SOLID principles and design patterns.
+Knowledge in Design Patterns and familiarity with containerization and orchestration tools like Docker for application deployment and management.
+Experience in security: Knowledge and application in data security including SSL/TLS, OAuth, JWT, and identity authentication and authorization protocols.
+Validation and Testing methods: Data validation and creation of test scenarios.
+Performance Measurement and Optimization: Knowledge in measuring application performance, using monitoring tools, and developing performance optimization strategies.
+System Integration and API Design: Knowledge and experience in integrating different systems, RESTful API design, and documentation.
+Sustainable Software Development: Proficiency in clean code writing, refactoring, and principles of code quality and software design.
 </div>
