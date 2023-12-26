@@ -1,7 +1,7 @@
 <div>
-  <h5>Hello, I am a software developer.<br>
+  <h1>I am a software developer.<br>
     I started my software life in 2018 and my professional career in 2021.<br>
-    I live in Istanbul, Turkey.</h5>
+    I live in Istanbul, Turkey.</h1>
   <ul>   
     <li>Development and enhancement in C#, ASP.NET, and ASP.NET CORE.</li>
     <li>Expertise in API development and integration.</li>
